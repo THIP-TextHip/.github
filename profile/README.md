@@ -3,8 +3,6 @@
 
 # 서비스 소개
 
----
-
 THIP(이하 ‘띱’)은 독서를 완독 중심의 결과물이 아닌 **읽는 과정 자체를 기록하고 공유하며 함께 이어가는 경험**으로 확장하는 커뮤니티형 독서 기록 플랫폼입니다.
 
 사용자는 책을 완독하지 않아도 페이지 단위로 감상을 남길 수 있으며 피드와 모임방을 통해 다른 사용자들과 소통할 수 있습니다.
@@ -14,8 +12,6 @@ THIP(이하 ‘띱’)은 독서를 완독 중심의 결과물이 아닌 **읽�
 이러한 흐름 속에서 띱은 ‘텍스트 힙(Text Hip)’ 문화를 기반으로 독서를 ‘결과 중심의 활동’이 아닌 **과정 중심의 지속 가능한 문화 경험**으로 확장하고자 합니다.
 
 # 개발 배경
-
----
 
 최근 독서는 SNS를 중심으로 ‘힙한 취향 활동’으로 인식되며 독서 콘텐츠에 대한 관심은 증가하고 있지만,
 
@@ -39,8 +35,6 @@ THIP 팀은 이러한 문제의 원인을 파악하기 위해 20~30대 성인 10
 
 # 주요기능
 
----
-
 <img width="1920" height="1080" alt="튜토리얼(1)" src="https://github.com/user-attachments/assets/83d707dd-6208-42b7-8249-2a0a3bbd1f9d" />
 <img width="1920" height="1080" alt="피드(2)" src="https://github.com/user-attachments/assets/eaf15522-a35c-459a-8ebf-c416e473d4ab" />
 <img width="5760" height="3240" alt="피드(3)" src="https://github.com/user-attachments/assets/6aec3a18-db90-455c-ae11-eb1626b3e701" />
@@ -48,8 +42,6 @@ THIP 팀은 이러한 문제의 원인을 파악하기 위해 20~30대 성인 10
 <img width="1920" height="1080" alt="모임(5)" src="https://github.com/user-attachments/assets/fb74b8e2-4728-4a5e-8fb5-bb91f621a721" />
 
 # 팀원 소개
-
----
 
 | PM | 김희용 |
 | --- | --- |
