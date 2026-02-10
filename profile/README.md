@@ -46,6 +46,6 @@ THIP 팀은 이러한 문제의 원인을 파악하기 위해 20~30대 성인 10
 | PM | 김희용 |
 | --- | --- |
 | 기획&디자인 | 서송희, 이소민 |
-| Front-End(WEB) | 지호준, 이지현, 김희용 |
-| Front-End(AN) | 김나은, 조규빈, 정주연 |
-| Back-End | 노성준, 장현준, 강희진 |
+| Front-End(WEB) | [지호준](https://github.com/ho0010), [이지현](https://github.com/ljh130334), [김희용](https://github.com/heeeeyong) |
+| Front-End(AN) | [김나은](https://github.com/Nico1eKim), [조규빈](https://github.com/rbqks529), [정주연](https://github.com/JJUYAAA) |
+| Back-End | [노성준](https://github.com/seongjunnoh), [장현준](https://github.com/buzz0331), [강희진](https://github.com/hd0rable) |
