@@ -1,4 +1,4 @@
-# 독서감상을 기록하는 가장 힙한 방법
+# 독서감상을 기록하는 가장 힙한 방법? THIP!
 <img width="1920" height="1080" alt="메인" src="https://github.com/user-attachments/assets/51f6cab7-b4ee-4042-9a6f-4b67c1ec3204" />
 
 # 서비스 소개
