@@ -49,3 +49,26 @@ THIP 팀은 이러한 문제의 원인을 파악하기 위해 20~30대 성인 10
 | Front-End(WEB) | [지호준](https://github.com/ho0010), [이지현](https://github.com/ljh130334), [김희용](https://github.com/heeeeyong) |
 | Front-End(AN) | [김나은](https://github.com/Nico1eKim), [조규빈](https://github.com/rbqks529), [정주연](https://github.com/JJUYAAA) |
 | Back-End | [노성준](https://github.com/seongjunnoh), [장현준](https://github.com/buzz0331), [강희진](https://github.com/hd0rable) |
+
+# 프로젝트 성과
+
+THIP은 실제 서비스 출시 및 사용자 검증 단계까지 도달한 프로젝트입니다.
+아래는 2025년 하반기 기준 주요 성과입니다.
+
+🏆 공모전 수상
+	•	과학기술정보통신부 주최 ‘한이음 드림업(ICT 멘토링) 공모전’ 입상 (장려)
+	•	기획·개발·실제 서비스 구현까지의 완성도를 인정받아 수상
+
+🎖️ 지역사회 커뮤니티 지원사업 참여
+	•	서울 청년센터 광진(광진구청)에서 운영한 커뮤니티 지원사업 ‘진구친구’에 사회참여 모델로 참여
+	•	지역사회 문제(성인 독서량 감소) 해결을 위한 서비스 개발 및 운영에 기여
+
+🚀 실제 서비스 출시 및 운영
+	•	Android 앱 정식 출시 및 운영
+	  •	Google Play Store 등록 완료
+	  •	실제 사용자 다운로드 및 이용 가능 상태
+	•	웹 서비스 배포 및 운영
+	  •	공식 웹 서비스: https://www.thip.co.kr
+	•	전용 랜딩 페이지 운영
+	  •	서비스 소개 및 사용자 유입, 반응 확인 용도
+    •	https://slashpage.com/thip
